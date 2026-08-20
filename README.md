@@ -35,4 +35,4 @@ The goal is to make volunteering easier for individuals while helping NGOs disco
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/harshithauv20/VolunteeerIQ
