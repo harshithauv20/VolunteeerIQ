@@ -1,6 +1,5 @@
 {
   "name": "VolunteerIQ",
-  "description": "An intelligent volunteer coordination assistant for NGOs with semantic matching, reliability scoring, and impact generation.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
+  "description": "An intelligent volunteer management and matching platform that connects volunteers with meaningful NGO opportunities.",
+  "version": "1.0.0"
 }
