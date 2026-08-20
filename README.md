@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# VolunteerIQ
 
-# Run and deploy your AI Studio app
+> Smart volunteer management and intelligent volunteer-opportunity matching platform.
 
-This contains everything you need to run your app locally.
+## 🌱 About
 
-View your app in AI Studio: https://ai.studio/apps/9982adb6-068b-42e8-beef-fa30692c6978
+VolunteerIQ connects volunteers with meaningful NGO opportunities based on their skills, interests, availability, and preferences.
 
-## Run Locally
+The goal is to make volunteering easier for individuals while helping NGOs discover suitable volunteers efficiently.
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+- Volunteer profile management
+- Volunteer opportunity discovery
+- Intelligent volunteer-task matching
+- AI-assisted recommendations
+- NGO opportunity management
+- Match-based recommendations
+- Responsive web interface
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- Vite
+- HTML5
+- CSS
+- Generative AI
+- Git
+- GitHub
+- Vercel
+
+## 🚀 Run Locally
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
