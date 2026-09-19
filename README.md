@@ -1,38 +1,48 @@
 # VolunteerIQ
 
-> Smart volunteer management and intelligent volunteer-opportunity matching platform.
+A web application prototype for connecting volunteers with suitable NGO opportunities.
 
-## 🌱 About
+## About
 
-VolunteerIQ connects volunteers with meaningful NGO opportunities based on their skills, interests, availability, and preferences.
+VolunteerIQ was created as a prototype using **Google AI Studio with prompt-based development**, followed by deployment using **Vercel**.
 
-The goal is to make volunteering easier for individuals while helping NGOs discover suitable volunteers efficiently.
+The project explores how AI-assisted development can be used to quickly prototype a web application for volunteer and opportunity matching.
 
-## ✨ Features
+## Concept
 
-- Volunteer profile management
-- Volunteer opportunity discovery
-- Intelligent volunteer-task matching
-- AI-assisted recommendations
-- NGO opportunity management
-- Match-based recommendations
-- Responsive web interface
+The application is designed around:
 
-## 🛠️ Tech Stack
+* Volunteer profiles
+* Skills and interests
+* Volunteer opportunities
+* Opportunity discovery
+* Profile-based matching
+* A responsive web interface
 
-- React
-- TypeScript
-- Vite
-- HTML5
-- CSS
-- Generative AI
-- Git
-- GitHub
-- Vercel
+## Built With
 
-## 🚀 Run Locally
+* Google AI Studio
+* React
+* TypeScript
+* Vite
+* HTML
+* CSS
+* Vercel
+* GitHub
 
-### 1. Clone the repository
+## Development Approach
 
-```bash
-git clone https://github.com/harshithauv20/VolunteeerIQ
+The initial application was generated and refined through prompt-based development in Google AI Studio.
+
+The resulting project was then managed through GitHub and deployed using Vercel.
+
+## Project Status
+
+**Prototype**
+
+This project is primarily a demonstration of AI-assisted web application prototyping rather than a ground-up software development project.
+
+## Live Demo
+
+[VolunteerIQ](https://volunteeer-iq.vercel.app/)
+
